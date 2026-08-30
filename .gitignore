@@ -1,0 +1,18 @@
+# Build outputs
+target/
+*.war
+
+# Environment Variables & Secrets
+.env
+.env.*
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# Logs
+*.log
